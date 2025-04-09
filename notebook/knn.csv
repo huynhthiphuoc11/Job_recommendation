@@ -1,0 +1,100 @@
+Job Title,Company,Location,JobID,Job Description,score
+Cybersecurity Specialist,KMS Technology,Remote,19809,Design microservices architecture using PyTorch and Next.js for KMS Technology's machine learning models to enhance user experience.,0.6788664660278234
+Java Developer,KMS Technology,Da Nang,1249,Maintain microservices architecture using MySQL and HTML for KMS Technology's machine learning models to enhance user experience.,0.6891741062585837
+Machine Learning Engineer,KMS Technology,Hanoi,10352,Integrate cloud-based solutions using SQL and Python for KMS Technology's data pipelines to enhance user experience.,0.6892635995170315
+API Developer,KMS Technology,Remote,9688,Build real-time data platforms using Flutter and Django for KMS Technology's machine learning models to enhance user experience.,0.7064588045509461
+Machine Learning Engineer,KMS Technology,Ho Chi Minh City,11084,Integrate microservices architecture using React and Azure for KMS Technology's data pipelines to enhance user experience.,0.7162518406738823
+Machine Learning Engineer,VNG,Hanoi,8912,Integrate real-time data platforms using Python and Node.js for VNG's machine learning models to enhance user experience.,0.7168932624025519
+Machine Learning Engineer,KMS Technology,Hanoi,8829,Implement cloud-based solutions using AWS and Spring for KMS Technology's machine learning models to enhance user experience.,0.719801331494405
+System Administrator,KMS Technology,Ho Chi Minh City,535,Optimize enterprise software using Java and HTML for KMS Technology's databases to enhance user experience.,0.7207476024706128
+AI Engineer,KMS Technology,Ho Chi Minh City,16179,Enhance web applications using Python and Azure for KMS Technology's machine learning models to enhance user experience.,0.7280889661823693
+Machine Learning Engineer,KMS Technology,Remote,9648,Lead e-commerce systems using AWS and Kubernetes for KMS Technology's APIs to enhance user experience.,0.7282972567513901
+Full Stack Developer,KMS Technology,Hanoi,816,Design backend systems using Spring and CSS for KMS Technology's machine learning models to drive innovation.,0.7303864967386119
+Web Application Specialist,KMS Technology,Remote,11504,Design e-commerce systems using Kubernetes and AWS for KMS Technology's machine learning models to enable real-time processing.,0.7329907938718518
+Full Stack Developer,KMS Technology,Ho Chi Minh City,8373,Architect real-time data platforms using Vue.js and Spring Boot for KMS Technology's machine learning models to enhance user experience.,0.7366806076745391
+Machine Learning Engineer,KMS Technology,Da Nang,11410,Develop microservices architecture using Django and Java for KMS Technology's machine learning models to increase security.,0.7374660512382631
+Java Backend Developer,KMS Technology,Hai Phong,9635,Integrate AI-driven tools using Java and Python for KMS Technology's machine learning models to optimize workflows.,0.7387890313664295
+Web Application Specialist,KMS Technology,Hanoi,11582,Design mobile-first interfaces using GraphQL and Python for KMS Technology's blockchain protocols to enhance user experience.,0.7390049813877537
+Web Developer,KMS Technology,Ho Chi Minh City,2065,Lead cloud-based solutions using Java and MySQL for KMS Technology's CI/CD pipelines to enhance user experience.,0.7397280177550136
+API Developer,KMS Technology,Ho Chi Minh City,8705,Optimize mobile-first interfaces using Python and Kubernetes for KMS Technology's IoT integrations to enhance user experience.,0.7417496371905191
+Data Scientist,KMS Technology,Nha Trang,7372,Optimize real-time data platforms using Vue.js and Java for KMS Technology's machine learning models to enable real-time processing.,0.7421914593994123
+Network Engineer,KMS Technology,Da Nang,414,Develop enterprise software using C# and CSS for KMS Technology's data pipelines to enhance user experience.,0.742680403655843
+AI Engineer,KMS Technology,Remote,7633,Optimize microservices architecture using Python and React for KMS Technology's machine learning models to support business growth.,0.7437293330800201
+Java Developer,Grab Vietnam,Remote,906,Design financial services using CSS and HTML for Grab Vietnam's machine learning models to enhance user experience.,0.7437966472580596
+AI Engineer,KMS Technology,Ho Chi Minh City,12426,Architect cloud-based solutions using AWS and Java for KMS Technology's cloud infrastructure to enhance user experience.,0.7457504216971456
+Machine Learning Engineer,KMS Technology,Hanoi,9546,Enhance microservices architecture using Python and React for KMS Technology's front-end frameworks to reduce latency.,0.7478989187559439
+System Administrator,KMS Technology,Da Nang,932,Enhance AI-driven tools using MySQL and HTML for KMS Technology's front-end frameworks to enhance user experience.,0.7484244519166006
+Machine Learning Engineer,KMS Technology,Hanoi,8654,Design financial services using Pandas and SQL for KMS Technology's cloud infrastructure to improve performance.,0.7487234375142995
+Cybersecurity Analyst,KMS Technology,Da Nang,11641,Maintain web applications using Solidity and Python for KMS Technology's front-end frameworks to enhance user experience.,0.7489819257059541
+Data Scientist,KMS Technology,Remote,10656,Design e-commerce systems using Python and Kubernetes for KMS Technology's blockchain protocols to enhance user experience.,0.7490628237730173
+Web Developer,KMS Technology,Ho Chi Minh City,13,Build cloud-based solutions using JavaScript and Spring for KMS Technology's machine learning models to optimize workflows.,0.7494198810152842
+Machine Learning Engineer,KMS Technology,Da Nang,11252,Design enterprise software using Azure and Spring for KMS Technology's serverless functions to optimize workflows.,0.7499372071617116
+Data Scientist,KMS Technology,Hanoi,10016,Optimize e-commerce systems using React and Java for KMS Technology's cloud infrastructure to enhance user experience.,0.7502181839653825
+AI Engineer,KMS Technology,Ho Chi Minh City,7442,Lead real-time data platforms using Docker and React for KMS Technology's data pipelines to enhance user experience.,0.7507258084587004
+Java Full Stack Developer,KMS Technology,Hanoi,11704,Optimize enterprise software using Kubernetes and Spring Boot for KMS Technology's CI/CD pipelines to enhance user experience.,0.750974197917112
+Machine Learning Engineer,KMS Technology,Hanoi,9792,Enhance real-time data platforms using Spring and Kubernetes for KMS Technology's cloud infrastructure to reduce latency.,0.7515795362168816
+API Developer,KMS Technology,Hanoi,10250,Optimize web applications using Flutter and Python for KMS Technology's machine learning models to drive innovation.,0.7522894558589814
+Java Developer,KMS Technology,Remote,1630,Maintain cloud-based solutions using CSS and MySQL for KMS Technology's cloud infrastructure to enhance user experience.,0.7531639880330282
+Full Stack Developer,KMS Technology,Da Nang,1778,Implement enterprise software using C# and Spring for KMS Technology's front-end frameworks to enhance user experience.,0.7534088841489486
+Machine Learning Engineer,KMS Technology,Ho Chi Minh City,8958,Enhance real-time data platforms using Java and Flutter for KMS Technology's CI/CD pipelines to reduce latency.,0.7552989388896824
+Java Backend Developer,KMS Technology,Hanoi,11007,Lead enterprise software using Node.js and Python for KMS Technology's machine learning models to enable real-time processing.,0.7558509697191106
+API Developer,KMS Technology,Hanoi,10387,Build financial services using Flutter and Spring for KMS Technology's machine learning models to enable real-time processing.,0.7559811037419472
+Software Engineer,KMS Technology,Ho Chi Minh City,253,Integrate cloud-based solutions using CSS and JSP for KMS Technology's front-end frameworks to support business growth.,0.7570693881826924
+Web Application Specialist,KMS Technology,Hanoi,12045,Enhance real-time data platforms using Kubernetes and Java for KMS Technology's data pipelines to ensure scalability.,0.7573004671299133
+System Administrator,Lazada Vietnam,Ho Chi Minh City,365,Optimize web applications using HTML and CSS for Lazada Vietnam's machine learning models to enhance user experience.,0.7573744607899876
+Data Scientist,Haravan,Ho Chi Minh City,7857,Design backend systems using Docker and Python for Haravan's machine learning models to enhance user experience.,0.758410728617079
+DevOps Engineer,KMS Technology,Remote,8695,Design real-time data platforms using Flutter and Pandas for KMS Technology's data pipelines to support business growth.,0.7584912869232905
+Full Stack Developer,KMS Technology,Da Nang,2406,Optimize real-time data platforms using PHP and HTML for KMS Technology's machine learning models to reduce latency.,0.7585772513334514
+AI Engineer,KMS Technology,Ho Chi Minh City,16687,Lead microservices architecture using Spring Boot and Python for KMS Technology's APIs to enhance user experience.,0.7587242008982652
+Web App Engineer,TMA Solutions,Ho Chi Minh City,5807,Develop web applications using Python and Spring Boot for TMA Solutions's machine learning models to enhance user experience.,0.7591593869581318
+Frontend Developer,KMS Technology,Hanoi,1832,Implement financial services using HTML and SQL for KMS Technology's front-end frameworks to support business growth.,0.7596607700518072
+Machine Learning Engineer,KMS Technology,Da Nang,9715,Design cloud-based solutions using React and Kubernetes for KMS Technology's data pipelines to increase security.,0.7598754369503211
+AI Specialist,KMS Technology,Hanoi,19903,Design financial services using Jenkins and AWS for KMS Technology's machine learning models to enable real-time processing.,0.7599707822255218
+Machine Learning Engineer,Haravan,Hanoi,10787,Optimize real-time data platforms using Kubernetes and Java for Haravan's machine learning models to enhance user experience.,0.760043425660569
+Database Administrator,Axon Active,Ho Chi Minh City,1739,Design e-commerce systems using Spring and HTML for Axon Active's serverless functions to enhance user experience.,0.7600467215363582
+Frontend Developer,KMS Technology,Ho Chi Minh City,248,Implement AI-driven tools using HTML and MySQL for KMS Technology's data pipelines to improve performance.,0.760724893736616
+Web Developer,VNG,Ho Chi Minh City,2021,Enhance mobile-first interfaces using Python and PHP for VNG's machine learning models to streamline operations.,0.7610745216135126
+Cybersecurity Analyst,KMS Technology,Ho Chi Minh City,11026,Enhance enterprise software using Kubernetes and Node.js for KMS Technology's data pipelines to enhance user experience.,0.7611076922909674
+Machine Learning Engineer,Lazada Vietnam,Remote,8957,Design financial services using Django and Java for Lazada Vietnam's machine learning models to enhance user experience.,0.7616718187958148
+Full Stack Developer,KMS Technology,Remote,7091,Develop cloud-based solutions using Kubernetes and SQL for KMS Technology's databases to enhance user experience.,0.7618834722964121
+Java Developer,KMS Technology,Hanoi,15181,Implement AI-driven tools using React and Redux for KMS Technology's serverless functions to enhance user experience.,0.7621620922041223
+Web Application Specialist,KMS Technology,Remote,11664,Architect cloud-based solutions using Java and Python for KMS Technology's serverless functions to streamline operations.,0.7624978648540051
+AI Engineer,KMS Technology,Hanoi,15290,Optimize mobile-first interfaces using Golang and Azure for KMS Technology's CI/CD pipelines to enhance user experience.,0.7626613265165922
+Web Application Specialist,KMS Technology,Da Nang,12998,Lead web applications using GraphQL and React for KMS Technology's CI/CD pipelines to enhance user experience.,0.7628801905592145
+Java Developer,Axon Active,Hanoi,1433,Architect real-time data platforms using CSS and HTML for Axon Active's machine learning models to increase security.,0.7628956110582068
+DevOps Engineer,KMS Technology,Da Nang,8729,Lead mobile-first interfaces using AWS and Python for KMS Technology's machine learning models to reduce latency.,0.7630043433446346
+Database Administrator,KMS Technology,Can Tho,2548,Build financial services using HTML and Servlet for KMS Technology's serverless functions to enhance user experience.,0.7637342985090053
+Machine Learning Engineer,Zalo,Ho Chi Minh City,11114,Maintain microservices architecture using Python and SQL for Zalo's machine learning models to enhance user experience.,0.7638286976372126
+Database Administrator,KMS Technology,Remote,2434,Design enterprise software using C# and PHP for KMS Technology's front-end frameworks to enhance user experience.,0.7640562250183403
+Web App Engineer,KMS Technology,Remote,8187,Lead real-time data platforms using Java and AWS for KMS Technology's CI/CD pipelines to enable real-time processing.,0.7641497313798316
+Data Scientist,KMS Technology,Ho Chi Minh City,6322,Lead cloud-based solutions using Angular and SQL for KMS Technology's front-end frameworks to support business growth.,0.7641777996799575
+Data Scientist,KMS Technology,Remote,5051,Design financial services using Docker and Node.js for KMS Technology's front-end frameworks to enhance user experience.,0.7642397320519192
+Data Scientist,KMS Technology,Da Nang,4689,Design cloud-based solutions using Spring Boot and Hibernate for KMS Technology's data pipelines to enhance user experience.,0.7642955594127446
+Full Stack Web Engineer,KMS Technology,Hanoi,15989,Lead real-time data platforms using Generative AI and Microservices for KMS Technology's machine learning models to enable real-time processing.,0.7644261990956034
+AI Engineer,KMS Technology,Remote,13272,Design real-time data platforms using GraphQL and AWS for KMS Technology's IoT integrations to increase security.,0.7644387192123825
+Full Stack Developer,KMS Technology,Da Nang,8137,Optimize real-time data platforms using Java and React for KMS Technology's machine learning models to support business growth.,0.7644840289775812
+API Developer,KMS Technology,Ho Chi Minh City,10472,Lead web applications using Node.js and Spring for KMS Technology's data pipelines to enhance user experience.,0.7645040775207663
+Data Scientist,KMS Technology,Hanoi,8106,Optimize AI-driven tools using Angular and AWS for KMS Technology's CI/CD pipelines to enhance user experience.,0.7651175654788029
+Generative AI Developer,KMS Technology,Remote,14450,Integrate e-commerce systems using Python and Golang for KMS Technology's machine learning models to support business growth.,0.7655134005037285
+Senior Web Developer,KMS Technology,Hanoi,14035,Lead AI-driven tools using Java and React for KMS Technology's machine learning models to drive innovation.,0.7657256029779389
+Data Scientist,KMS Technology,Remote,4955,Develop microservices architecture using Spring Boot and Docker for KMS Technology's machine learning models to support business growth.,0.765816806722793
+System Administrator,KMS Technology,Ho Chi Minh City,1108,Design backend systems using JSP and MySQL for KMS Technology's cloud infrastructure to enhance user experience.,0.7664386358084089
+Database Administrator,KMS Technology,Hanoi,2633,Optimize real-time data platforms using JavaScript and Java for KMS Technology's front-end frameworks to optimize workflows.,0.7667886611219444
+Web Developer,KMS Technology,Hai Phong,2859,Design enterprise software using SQL and HTML for KMS Technology's front-end frameworks to improve performance.,0.766855552943648
+Full Stack Web Developer,KMS Technology,Ho Chi Minh City,10396,Build microservices architecture using SQL and Python for KMS Technology's front-end frameworks to enhance user experience.,0.7671958344071403
+Software Engineer,KMS Technology,Ho Chi Minh City,589,Maintain enterprise software using Java and HTML for KMS Technology's databases to drive innovation.,0.7679033973467613
+Cybersecurity Analyst,KMS Technology,Can Tho,12309,Design enterprise software using Node.js and Java for KMS Technology's CI/CD pipelines to enhance user experience.,0.7679198284091189
+DevOps Engineer,KMS Technology,Hanoi,7735,Enhance financial services using Docker and SQL for KMS Technology's machine learning models to support business growth.,0.7680351185275288
+Blockchain Developer,KMS Technology,Hanoi,11813,Design e-commerce systems using Java and AWS for KMS Technology's serverless functions to enhance user experience.,0.7680502067057966
+Java Developer,KMS Technology,Ho Chi Minh City,16108,Enhance AI-driven tools using Python and AWS for KMS Technology's machine learning models to streamline operations.,0.7680676424568188
+Java Backend Developer,KMS Technology,Ho Chi Minh City,10198,Design web applications using AWS and Spring for KMS Technology's CI/CD pipelines to enhance user experience.,0.7681969683405185
+Network Engineer,KMS Technology,Ho Chi Minh City,1888,Lead real-time data platforms using JavaScript and CSS for KMS Technology's blockchain protocols to drive innovation.,0.7683649117005851
+AI Engineer,KMS Technology,Hanoi,13268,Develop financial services using Java and Azure for KMS Technology's serverless functions to support business growth.,0.768607988804078
+Senior Full Stack Developer,KMS Technology,Hanoi,18162,Maintain mobile-first interfaces using Python and Jenkins for KMS Technology's machine learning models to enhance user experience.,0.7690669914243609
+DevOps Engineer,KMS Technology,Hanoi,10885,Enhance real-time data platforms using Spring and Azure for KMS Technology's cloud infrastructure to enhance user experience.,0.7691392488165931
+Machine Learning Engineer,Tiki,Hue,9844,Design backend systems using Kubernetes and Node.js for Tiki's machine learning models to enhance user experience.,0.7692684206040532
+Database Administrator,KMS Technology,Ho Chi Minh City,723,Architect microservices architecture using Java and JavaScript for KMS Technology's cloud infrastructure to enhance user experience.,0.7694531651932186
+DevOps Engineer,Axon Active,Remote,6361,Design real-time data platforms using Java and Golang for Axon Active's machine learning models to enhance user experience.,0.7694612869001543
+Backend Developer,KMS Technology,Remote,3269,Implement enterprise software using PostgreSQL and Node.js for KMS Technology's machine learning models to enable real-time processing.,0.7695951995938639
+Web Application Developer,FPT Software,Da Nang,3505,Lead cloud-based solutions using MongoDB and SQL for FPT Software's machine learning models to enhance user experience.,0.7698570166192765
+Web Application Developer,KMS Technology,Hanoi,2863,Implement AI-driven tools using AWS and Python for KMS Technology's IoT integrations to enhance user experience.,0.769874696912321
