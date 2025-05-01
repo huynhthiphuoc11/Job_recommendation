@@ -1,4 +1,5 @@
-FROM python:3.8
+FROM python:3.8-slim
+RUN apt-get update && apt-get upgrade -y && apt-get clean
 WORKDIR /Job-Recomendation
 COPY requirements.txt ./requirements.txt
 RUN pip install -r requirements.txt

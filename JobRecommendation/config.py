@@ -24,7 +24,7 @@ import os
 
 class EnvironmentVariable:
     mongo_db_url:str = os.getenv("mongodb://localhost:27017")
-    DATABASE_NAME = "job_recommendation"
+    DATABASE_NAME = "Job_Recommendation"
 
 env_var = EnvironmentVariable()
 client = pymongo.MongoClient(env_var.mongo_db_url)

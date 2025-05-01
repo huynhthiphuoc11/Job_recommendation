@@ -40,7 +40,7 @@ def add_logo(logo_path="logo/image.png", width=300, height=100):
         <style>
     
             [data-testid="stSidebarNav"]::before {
-                content: "TALENT HIVE";
+                content: "";
                 margin-left: 20px;
                 margin-top: 20px;
                 font-size: 30px;
