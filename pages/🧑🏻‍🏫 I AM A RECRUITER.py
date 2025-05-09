@@ -400,7 +400,7 @@ def display_cv_cards(cv_data: pd.DataFrame, count: int):
                 <p class="text-field" style="margin: 4px 0;"><b>Degree:</b> {cv['degree']}</p>
                 <p class="text-field" style="margin: 4px 0;"><b>Email:</b> {cv['email']}</p>
                 <p class="text-field" style="margin: 4px 0;"><b>Phone:</b> {cv['mobile_number']}</p>
-                <p class="text-field" style="margin: 4px 0;"><b>Skills:</b> {" | ".join(cv['skills'][:5])}...</p>
+                <p class="text-field" style="margin: 4px 0;"><b>Skills:</b> {" | ".join(cv['skills'][:5]) if isinstance(cv['skills'], list) and len(cv['skills']) > 0 else "N/A"}...</p>
                 <p class="text-field" style="margin: 4px 0;"><b>Score:</b> {cv['Final']:.2f}</p>
             </div>
             """
@@ -519,10 +519,10 @@ def app():
             step=3
         )
         
+        # Removed the placeholder parameter as it's not supported in your Streamlit version
         filter_options = st.multiselect(
             'Optional Filters:',
-            ['Requires 2+ Years Experience', 'Bachelor’s Degree or Higher', 'English Proficiency'],
-            placeholder="Select optional filters"
+            ['Requires 2+ Years Experience', "Bachelor's Degree or Higher", 'English Proficiency']
         )
     
     search_button = st.button('Search Candidates', key="search_button", type="primary")
@@ -567,7 +567,7 @@ def app():
                     for f in filter_options:
                         if f == 'Requires 2+ Years Experience':
                             df = df[df['All'].str.contains('2\+ years|two years', case=False, na=False)]
-                        elif f == 'Bachelor’s Degree or Higher':
+                        elif f == "Bachelor's Degree or Higher":
                             df = df[df['degree'].str.contains('Bachelor|Master|PhD', case=False, na=False)]
                         elif f == 'English Proficiency':
                             df = df[df['skills'].apply(lambda x: 'English' in x if isinstance(x, list) else False)]
@@ -628,11 +628,6 @@ def app():
                     display_cv_cards(final_df, no_of_cv)
                     
                     # Display charts
-                    fig, ax = plt.subplots(figsize=(8, 5))
-                    sns.histplot(final_df['Final'], bins=15, kde=True, ax=ax, color='#2563eb')
-                    ax.set_title("Candidate Score Distribution", fontsize=16)
-                    st.pyplot(fig)
-                    
                     display_data_visualizations(final_df)
                     
             except Exception as e:
